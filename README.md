@@ -1,6 +1,11 @@
 # Job Tracker Dashboard
 
-A modern job tracking application that helps users manage job applications, track statuses, and save remote job listings from an external API.
+A modern **job tracking application** built with React that helps users manage job applications, track statuses, and save remote job listings from an external API.
+
+---
+
+## 🌍 Live Demo
+🔗 [View App](job-tracker-dashboard-1nzsozji0-awakan-shinayomi-rajis-projects.vercel.app)
 
 ---
 
@@ -10,8 +15,8 @@ A modern job tracking application that helps users manage job applications, trac
 - Save remote jobs from an external API
 - Persistent storage using localStorage
 - Toast notifications for user actions
-- Skeleton loaders for better user experience
-- Fully responsive UI built with Tailwind CSS
+- Skeleton loaders for better UX
+- Fully responsive UI with Tailwind CSS
 
 ---
 
@@ -46,12 +51,27 @@ A modern job tracking application that helps users manage job applications, trac
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
 
-### Add Job
+### Add Job Form
 ![Add Job](./screenshots/add-job.png)
 
 ### Remote Jobs (API)
 ![API Jobs](./screenshots/api-jobs.png)
 
+---
 
+## 🧠 What I Learned
+- Managing global state with Context API
+- Integrating and normalizing external API data
+- Improving UX with skeleton loaders and toast notifications
+- Deploying React apps with Vercel
+- Writing a professional, recruiter-friendly README
 
+---
 
+## 🚀 Future Improvements
+- Add authentication to track jobs per user
+- Store jobs in a backend (MongoDB / Firebase)
+- Analytics dashboard for job applications
+- Dark mode for better user experience
+
+---
