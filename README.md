@@ -5,7 +5,7 @@ A modern **job tracking application** built with React that helps users manage j
 ---
 
 ## 🌍 Live Demo
-🔗 [View App](job-tracker-dashboard-1nzsozji0-awakan-shinayomi-rajis-projects.vercel.app)
+🔗 [View App](https://job-tracker-dashboard-1nzsozji0-awakan-shinayomi-rajis-projects.vercel.app)
 
 ---
 
